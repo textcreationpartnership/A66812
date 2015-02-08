@@ -127,11 +127,14 @@
          <div type="title_page">
             <pb facs="tcp:63979:1"/>
             <pb facs="tcp:63979:1"/>
-            <figure>
-               <head>Wittie APOPHTHEGMES of K Iames K Charles E of Worcest<gap reason="illegible" resp="#APEX" extent="2 letters">
-                     <desc>••</desc>
-                  </gap> Lo Bacon &amp; S<hi rend="sup">r</hi> Tho. More Reuiued</head>
-            </figure>
+            <p>
+               <pb facs="tcp:63979:2"/>
+               <figure>
+                  <head>Wittie APOPHTHEGMES of K Iames K Charles E of Worcest<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Lo Bacon &amp; S<hi rend="sup">r</hi> Tho. More Reuiued</head>
+               </figure>
+            </p>
             <p>
                <pb facs="tcp:63979:2"/>
 WITTY Apophthegms DELIVERED At Several Times, and upon Several Occasions, BY King <hi>James,</hi> King <hi>Charls,</hi> The Marquess of <hi>Worcester, Francis</hi> Lord <hi>Bacon,</hi> and Sir <hi>Thomas Moor.</hi> Collected and Revised.</p>
